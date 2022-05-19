@@ -92,3 +92,60 @@ p {
     background-repeat: no-repeat;
     background-position: 0% 41%;
 }
+
+/* ------------------------------------------------ */
+
+h3 {
+    text-align: center;
+}
+
+.desig {
+    color: grey;
+    text-align: center;
+}
+
+.moral {
+
+    width: 15%;
+    text-align: center;
+    margin-left: 663px;
+}
+
+.msg {
+
+    background-color: rgb(255, 0, 140);
+    color: white;
+    width: 20%;
+    margin-left: 624px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.p-msg {
+    margin-bottom: 0;
+}
+
+h4 {
+    margin-top: 10px;
+}
+
+.last-sec {
+    background-image: url(footer-bg.png);
+    background-repeat: no-repeat;
+    background-position-y: 27%;
+    padding: 9%;
+    background-size: 78% 122%;
+
+}
+
+.comment {
+    text-align: center;
+    font-size: 50px;
+    margin-top: 0%;
+    margin-bottom: 5%;
+}
+
+footer {
+    text-align: center;
+}
