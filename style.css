@@ -1,0 +1,94 @@
+body {
+    margin: 0%;
+}
+
+.name {
+    font-size: 50px;
+}
+
+.my_name {
+    color: rgb(255, 0, 140);
+}
+
+.upper {
+
+    display: flex;
+    background-image: url("header-bg.png");
+    background-repeat: no-repeat;
+    background-position: -4% 38%;
+    padding-bottom: 217px;
+
+
+}
+
+.upper_text {
+    width: 50%;
+    padding: 5px;
+    margin: 370px 5px 5px 280px;
+}
+
+.img {
+    width: 90%;
+
+}
+
+.upper_img {
+    margin: 221px 280px 5px 5px;
+    padding: 5px;
+}
+
+.button {
+    text-decoration: none;
+    background-color: rgb(255, 0, 140);
+    color: white;
+    padding: 1% 2%;
+    border-radius: 9px;
+}
+
+p {
+    margin-bottom: 30px;
+}
+
+
+
+/* --------- */
+
+.mid {
+
+    display: flex;
+    background-image: url("biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: -4% 38%;
+
+
+}
+
+.mid_text {
+    width: 50%;
+    padding: 5px;
+    margin: 370px 280px 5px 5px;
+}
+
+
+.mid_img {
+    margin: 221px 5px 5px 280px;
+    padding: 5px;
+}
+
+/* -------------------------------------------*/
+
+.demo_header {
+
+    text-align: center;
+    font-size: 50px;
+    margin-top: 5%;
+    margin-bottom: 0%;
+}
+
+.demo_img {
+    display: flex;
+    padding: 7% 10%;
+    background-image: url("latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: 0% 41%;
+}
